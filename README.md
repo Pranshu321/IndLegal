@@ -1,0 +1,1 @@
+# IndLegal - Advance Legal Summarizer
